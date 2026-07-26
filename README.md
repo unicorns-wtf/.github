@@ -1,2 +1,3 @@
-# .github
-Unicorns.WTF
+# Unicorns.WTF
+
+It's mythical.
